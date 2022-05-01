@@ -1,6 +1,3 @@
-# Omega
-Omega Landing page
-
-✅ Responsive
-
-site overview - https://omega-page.netlify.app/
+satyam kumar 
+netlify link 
+https://deluxe-smakager-5c9f3d.netlify.app/
